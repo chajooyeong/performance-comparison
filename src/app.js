@@ -2,6 +2,7 @@ import * as THREE from "three";
 
 import Stats from "three/examples/jsm/libs/stats.module.js";
 import { GUI } from "three/examples/jsm/libs/lil-gui.module.min.js";
+import "./main.css";
 
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js";
 import * as BufferGeometryUtils from "three/examples/jsm/utils/BufferGeometryUtils.js";
